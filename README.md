@@ -1,7 +1,7 @@
 ### André Cantarim 🖖
 
 - 💼 Atualmente trabalhando na [CIJUN - Cia. de Informática de Jundiaí](https://cijun.sp.gov.br)
-- 💪 Mais de 10 anos de experiência em análise e desenvolvimento de sistemas
+- 💪 Mais de 12 anos (desde 2008) de experiência em análise e desenvolvimento de sistemas
 - 🔎 Focado em desenvolvimento com plataforma .NET (VB, C#, Xamarin, API)
 - 🧠 Estudando implementações com Javascript (React, React Native e NodeJS)
 
