@@ -5,6 +5,13 @@
 - 🔎 Focado em desenvolvimento com plataforma .NET (VB, C#, Xamarin, API)
 - 🧠 Estudando implementações com Javascript (React, React Native e NodeJS)
 
-<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ahcantarim&count_private=true&show_icons=true&hide_border=false">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ahcantarim&count_private=true&show_icons=true&hide_border=false" />
+<a href="https://github-readme-stats.vercel.app/api?username=ahcantarim&count_private=true&show_icons=true&hide_border=false">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahcantarim&count_private=true&show_icons=true&hide_border=false" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcantarim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcantarim" />
 </a>
